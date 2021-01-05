@@ -1,2 +1,5 @@
 # Deep-Learning-for-Causal-Inference
-Extensive tutorials for learning how to build deep learning models for causal inference using selection on observables
+
+This repository contains extensive tutorials for building deep learning models to do causal estimation under selection on observables. 
+
+These tutorials accompany a review I am writing on this literature
