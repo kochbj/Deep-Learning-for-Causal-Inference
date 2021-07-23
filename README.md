@@ -2,13 +2,13 @@
 
 # Deep Learning Models for Causal Inference (under selection on observables)
 
+### <span style="color:red">UPDATE 07/22/2021</span>: I've uploaded a [draft of the review](https://github.com/kochbj/Deep-Learning-for-Causal-Inference/raw/main/Deep_Learning_of_Potential_Outcomes_Review.pdf) for the 2021 ICML Workshop on Neglected Assumptions in Causal Inference. Check it out!
+
 While there is a lot of interest in using causal inference to improve deep learning, there aren't many examples of how deep learning can be used for statistical estimation in social science. This repository contains extensive tutorials for building deep learning models to do causal estimation under selection on observables.
 
 I tried to write the tutorials at a very high level so that anybody with a basic understanding of causal inference and machine learning could find them useful. The tutorials assume very little prior knowledge about deep learning and TensorFlow. In addition to featuring relevant models, I hoped that these tutorials could be a gentle introduction for building, tuning, and evaluating your own complex models in Tensorflow 2.
 
 *These are a work in a progress.* If you have any questions or feedback on how I can improve them, please let me know. The tutorials accompany a review we are currently writing on this literature.
-
-### UPDATE 07/22/2021: I've uploaded a [draft of the review](https://github.com/kochbj/Deep-Learning-for-Causal-Inference/raw/main/Deep_Learning_of_Potential_Outcomes_Review.pdf) for the 2021 ICML Workshop on Neglected Assumptions in Causal Inference. Check it out!
 
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zx0AkriygB_ws6qXjA7VfqebG-YMwbWl?usp=sharing) 1. Introduction to Deep Learning for Causal Inference on Observables.
 This tutorial introduces the idea of representation learning for causal inference. You also build and test a simple conditional average treatment effect (CATE) estimator, TARNet (first introduced in [Shalit et al., 2017](http://proceedings.mlr.press/v70/shalit17a.html)), using the TF2 functional API.
