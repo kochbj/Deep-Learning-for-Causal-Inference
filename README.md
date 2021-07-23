@@ -1,7 +1,9 @@
 
-# UPDATE 07/22/2021: I've uploaded a draft of the review for the 2021 ICML Workshop on Neglected Assumptions in Causal Inference. Check it out!
 
 # Deep Learning Models for Causal Inference (under selection on observables)
+
+### UPDATE 07/22/2021: I've uploaded a [draft of the review](https://github.com/kochbj/Deep-Learning-for-Causal-Inference/raw/main/Deep_Learning_of_Potential_Outcomes_v2.pdf) for the 2021 ICML Workshop on Neglected Assumptions in Causal Inference. Check it out!
+
 
 While there is a lot of interest in using causal inference to improve deep learning, there aren't many examples of how deep learning can be used for statistical estimation in social science. This repository contains extensive tutorials for building deep learning models to do causal estimation under selection on observables.
 
