@@ -4,7 +4,7 @@
 
 ### <span style="color:red">UPDATE 10/13/2021</span>: Most recent draft of the accompanying review ["Deep Learning of Potential Outcomes"](https://arxiv.org/abs/2110.04442) is on Arxiv . Check it out!
 
-While there is a lot of interest in using causal inference to improve deep learning, there aren't many examples of how deep learning can be used for statistical estimation in social science. This repository contains extensive tutorials for building deep learning models to do causal estimation under selection on observables.
+While there is a lot of interest in using causal inference to improve deep learning, there aren't many examples of how deep learning can be used to estimate causal effects. This repository contains extensive tutorials for building deep learning models to do causal estimation under selection on observables.
 
 I tried to write the tutorials at a very high level so that anybody with a basic understanding of causal inference and machine learning could find them useful. The tutorials assume very little prior knowledge about deep learning and TensorFlow. In addition to featuring relevant models, I hoped that these tutorials could be a gentle introduction for building, tuning, and evaluating your own complex models in Tensorflow 2.
 
