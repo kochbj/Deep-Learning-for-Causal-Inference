@@ -18,7 +18,7 @@ This tutorial introduces the idea of representation learning for causal inferenc
 
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zx0AkriygB_ws6qXjA7VfqebG-YMwbWl?usp=sharing) 1. Introduction to Deep Learning for Causal Inference on Observables.
 #### (Long version for NO DL experience)
-This tutorial extends the previous one by introducing S-learners, and T-learners before TARNet as a way to get familiar with building custom Tensorflow models.
+This tutorial is an "unabridged" version of the above for those who have never done any DL and may find TF overwhelming. It introduces S-learners, and T-learners before TARNet as a way to get familiar with building custom Tensorflow models.
 
 ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y9i8koqPqs8JSyVHkdZmjGEW6ntqPV73?usp=sharing) 2. Causal Inference Metrics and Hyperparameter Optimization.
 Because we do not observe counterfactual outcomes, it's not obvious how to optimize supervised learning models for causal inference. This tutorial introduces some metrics for evaluating model performance. In the first part, you learn how to assess performance on these metrics in Tensorboard. In the second part, we hack [Keras Tuner](https://keras-team.github.io/keras-tuner/) to do hyperparameter optimization for TARNet, and discuss considerations for training models as estimators rather than predictors.
