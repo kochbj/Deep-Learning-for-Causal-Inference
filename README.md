@@ -2,6 +2,9 @@
 
 # Deep Learning Models for Causal Inference (under selection on observables)
 
+### <span style="color:red">UPDATE 06/28/2023</span>: I've updated the paper with a new, significantly streamlined draft  of the [accompanying review](https://osf.io/preprints/socarxiv/aeszf) that focuses more on core ideas rather than papers since the literature is evolving so rapidly.
+
+
 ### <span style="color:red">UPDATE 02/23/2023</span>: To keep these relevant, I added a new tutorial with an implementation of Dragonnet in Pytorch, TMLE-style confidence intervals, and feature importance interpretation using Integrated Gradients and SHAP.
 
 
