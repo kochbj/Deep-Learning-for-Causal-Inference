@@ -4,14 +4,6 @@
 
 ### <span style="color:red">UPDATE 06/28/2023</span>: I've updated the paper with a new, significantly streamlined draft  of the [accompanying review](https://osf.io/preprints/socarxiv/aeszf) that focuses more on core ideas rather than papers since the literature is evolving so rapidly.
 
-
-### <span style="color:red">UPDATE 02/23/2023</span>: To keep these relevant, I added a new tutorial with an implementation of Dragonnet in Pytorch, TMLE-style confidence intervals, and feature importance interpretation using Integrated Gradients and SHAP.
-
-
-### <span style="color:red">UPDATE 03/07/2022</span>: I spruced up the tutorials by fixing them at TF 2.8, updating notation, fixing some bugs, and redoing the figures. I also added an extended version of the first tutorial for those with no DL experience! 
-
-### <span style="color:red">UPDATE 10/13/2021</span>: Most recent draft of the accompanying review ["Deep Learning of Potential Outcomes"](https://arxiv.org/abs/2110.04442) is on Arxiv . Check it out!
-
 While there is a lot of interest in using causal inference to improve deep learning, there aren't many examples of how deep learning can be used to estimate causal effects. This repository contains extensive tutorials for building deep learning models to do causal estimation under selection on observables.
 
 I tried to write the tutorials at a very high level so that anybody with a basic understanding of causal inference and machine learning could find them useful. The tutorials assume very little prior knowledge about deep learning and TensorFlow. In addition to featuring relevant models, I hoped that these tutorials could be a gentle introduction for building, tuning, and evaluating your own complex models in Tensorflow 2.
