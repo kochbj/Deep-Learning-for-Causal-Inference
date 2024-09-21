@@ -10,7 +10,7 @@ I tried to write the tutorials at a very high level so that anybody with a basic
 
 *These are a work in a progress.* If you have any questions or feedback on how I can improve them, please let me know. The tutorials accompany a review we are currently writing on this literature. **Lastly, if you enjoyed these tutorials, feel free to star the repository.** Thanks!
 
-### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zx0AkriygB_ws6qXjA7VfqebG-YMwbWl?usp=sharing) 1. Introduction to Deep Learning for Causal Inference on Observables. [SHORT]
+### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FnaZxjX0sYMiLu7RLw9Ym5yUDKy7z79D?usp=sharing) 1. Introduction to Deep Learning for Causal Inference on Observables. [SHORT]
 #### (For those already familar with Tensorflow)
 This tutorial introduces the idea of representation learning for causal inference. You also build and test a simple conditional average treatment effect (CATE) estimator, TARNet (first introduced in [Shalit et al., 2017](http://proceedings.mlr.press/v70/shalit17a.html)), using the TF2 functional API.
 
