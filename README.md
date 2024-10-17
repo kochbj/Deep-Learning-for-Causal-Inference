@@ -2,7 +2,7 @@
 
 # Deep Learning Models for Causal Inference (under selection on observables)
 
-### <span style="color:red">UPDATE 09/30/2023</span>: The [paper](https://osf.io/preprints/socarxiv/aeszf) (pre-print link) is forthcoming in Sociological Methods & Research.
+### <span style="color:red">UPDATE 09/30/2023</span>: The [paper](https://osf.io/preprints/socarxiv/aeszf) (pre-print link) is now published in Sociological Methods & Research.
 
 While there is a lot of interest in using causal inference to improve deep learning, there aren't many examples of how deep learning can be used to estimate causal effects. This repository contains extensive tutorials for building deep learning models to do causal estimation under selection on observables.
 
